@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31613.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KPILibrary", "KPILibrary\KPILibrary.csproj", "{EE412C5F-1FCA-4F14-9633-0251A5BE131D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Practice", "Practice\Practice.csproj", "{CF925470-003E-46D8-8B47-54E9C8F45749}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KPITest", "KPITest\KPITest.csproj", "{374E93A0-04D7-4984-80F6-147DB87BCE5B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EE412C5F-1FCA-4F14-9633-0251A5BE131D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE412C5F-1FCA-4F14-9633-0251A5BE131D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE412C5F-1FCA-4F14-9633-0251A5BE131D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE412C5F-1FCA-4F14-9633-0251A5BE131D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF925470-003E-46D8-8B47-54E9C8F45749}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF925470-003E-46D8-8B47-54E9C8F45749}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF925470-003E-46D8-8B47-54E9C8F45749}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF925470-003E-46D8-8B47-54E9C8F45749}.Release|Any CPU.Build.0 = Release|Any CPU
+		{374E93A0-04D7-4984-80F6-147DB87BCE5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{374E93A0-04D7-4984-80F6-147DB87BCE5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{374E93A0-04D7-4984-80F6-147DB87BCE5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{374E93A0-04D7-4984-80F6-147DB87BCE5B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {103A7F71-332A-4EE7-9AC1-EB472E7221E3}
+	EndGlobalSection
+EndGlobal
